@@ -1,0 +1,4 @@
+CRIAR USUÁRIO
+
+adduser [nome de usuario]
+#após isso configurar a senha
